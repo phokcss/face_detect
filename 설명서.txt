@@ -1,0 +1,6 @@
+Facial_Recognition_Part1.py
+기능:특정 얼굴 100장 찍기
+Facial_Recognition_Part2.py
+기능: 특정 얼굴 100장 사진 학습
+Facial_Recognition_Part3.py
+기능:얼굴 인식해서 검출하기
